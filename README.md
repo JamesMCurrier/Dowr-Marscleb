@@ -1,5 +1,5 @@
 # DowrMarscleb
 
-##"Word Scramble"
+## "Word Scramble"
 
-Not gonna lie, this is a pretty horrible game.
+Basic word game that I made solely to play with Tkinter
