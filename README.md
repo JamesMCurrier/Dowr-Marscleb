@@ -1,5 +1,3 @@
-# DowrMarscleb
+# DowrMarscleb (WordScramble)
 
-## "Word Scramble"
-
-Basic word game that I made solely to play with Tkinter
+Word scramble game that I made with pure python
